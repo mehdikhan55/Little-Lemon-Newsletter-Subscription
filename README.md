@@ -1,5 +1,5 @@
-## Little Lemon
+## Little Lemon Newsletter Subscription - React Native Project
 
-This is the code example for the newsletter subscription application.
+A React Native Application for the newsletter subscription, a part of <i>"React Native Specialization"</i> Course By META.
 
 ![](little_lemon.gif)
